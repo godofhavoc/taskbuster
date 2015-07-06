@@ -1,8 +1,3 @@
-.. TaskBuster documentation master file, created by
-   sphinx-quickstart on Mon Jul  6 13:00:18 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to TaskBuster's documentation!
 ======================================
 
@@ -32,14 +27,15 @@ TaskBuster has been done, and even do it yourself if you want to!!
 
 To start using the Boilerplate, check out the :doc:`requirements`
 and next the :doc:`quick_start`.
-Contents:
+
+Contents
+--------
 
 .. toctree::
    :maxdepth: 2
 
    requirements
    quick_start
-
 
 
 Indices and tables
