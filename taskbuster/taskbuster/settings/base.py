@@ -150,6 +150,7 @@ INSTALLED_APPS += (
     'allauth.socialaccount',
     # Login via Google
     'allauth.socialaccount.providers.google',
+    'apps.taskmanager',
 )
 
 SITE_ID = 2
